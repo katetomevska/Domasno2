@@ -1,0 +1,17 @@
+h1 {font-size: xx-large ; color: black;}
+h2{font-family: 'Courier New', Courier, monospace; background-color: white; position:relative}
+i.podnaslov{font-size: large;}
+
+fieldset.cetvrto{border: 3px solid #FFC397; background-color:#f8d4bab2;}
+fieldset.prvo {border: 3px solid #FFA998; background-color:#F8D4BA;}
+fieldset.vtoro{border: 3px solid #F76566; background-color:#F8D4BA;}
+fieldset.treto{border: 3px solid #f3ae18; background-color:#F8D4BA;}
+
+.nisto{text-decoration: none;}
+.nisto:hover {text-decoration: underline;}
+
+.kopce {font-size: x-large; color: white; background : black ; transition-duration: 0.5s; width: 20%;}
+.kopce:hover {cursor: pointer; color: black; background-color: white; border-color: white;}
+
+body{background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm184-noon-02e.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=ae84b97af17b660d7dcd2b23275eef75); 
+     background-size: 100%;}
